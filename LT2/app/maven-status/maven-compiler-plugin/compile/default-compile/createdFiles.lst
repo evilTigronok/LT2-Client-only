@@ -3,6 +3,7 @@ game\ui\register\CharacterStep.class
 game\client\ClientMain.class
 game\ui\register\RegisterScene.class
 game\ui\RPGApplication.class
+game\client\Config.class
 game\ui\CombatScene$2.class
 game\ui\panels\CharacterPanel.class
 game\ui\CharacterScene.class
