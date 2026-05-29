@@ -19,8 +19,10 @@ game\client\NetworkClient.class
 game\ui\register\TokenScene.class
 game\ui\WorldScene.class
 game\ui\CombatScene$1.class
+game\ui\WorldScene$1.class
 game\ui\SceneManager.class
 game\ui\SceneManager$1.class
 game\ui\register\ConfirmStep.class
 game\ui\register\StarterItemStep.class
 game\ui\register\LoginPasswordStep.class
+game\ui\world\RemotePlayer.class
