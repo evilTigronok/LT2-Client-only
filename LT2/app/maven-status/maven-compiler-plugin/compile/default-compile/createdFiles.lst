@@ -14,8 +14,10 @@ game\ui\CombatScene$3.class
 game\ui\register\AgreementStep.class
 game\ui\register\RoleSelectScene.class
 game\ui\register\RegisterStepController.class
+game\ui\world\WorldAssets.class
 game\ui\CombatScene.class
 game\client\NetworkClient.class
+game\ui\world\WorldObject.class
 game\ui\register\TokenScene.class
 game\ui\WorldScene.class
 game\ui\CombatScene$1.class

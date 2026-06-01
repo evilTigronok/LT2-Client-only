@@ -2,6 +2,7 @@ C:\Users\evilTigronok\LT2\client\src\main\java\game\ui\register\CharacterStep.ja
 C:\Users\evilTigronok\LT2\client\src\main\java\game\ui\RPGApplication.java
 C:\Users\evilTigronok\LT2\client\src\main\java\game\ui\LoginScene.java
 C:\Users\evilTigronok\LT2\client\src\main\java\game\ui\world\RemotePlayer.java
+C:\Users\evilTigronok\LT2\client\src\main\java\game\ui\world\WorldObject.java
 C:\Users\evilTigronok\LT2\client\src\main\java\game\client\NetworkClient.java
 C:\Users\evilTigronok\LT2\client\src\main\java\game\ui\register\RegistrationSession.java
 C:\Users\evilTigronok\LT2\client\src\main\java\game\ui\SceneType.java
@@ -20,3 +21,4 @@ C:\Users\evilTigronok\LT2\client\src\main\java\game\ui\register\RoleSelectScene.
 C:\Users\evilTigronok\LT2\client\src\main\java\game\ui\register\AgreementStep.java
 C:\Users\evilTigronok\LT2\client\src\main\java\game\ui\register\StarterItemStep.java
 C:\Users\evilTigronok\LT2\client\src\main\java\game\client\ClientMain.java
+C:\Users\evilTigronok\LT2\client\src\main\java\game\ui\world\WorldAssets.java
